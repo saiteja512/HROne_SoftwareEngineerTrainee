@@ -29,7 +29,7 @@ candidate_kit/
 ├── DECISIONS.md
 ├── DATA_MODEL.md
 ├── openapi.yaml
-└── sample_data/
+└── sample_seed.py
 ```
 
 ## Setup
